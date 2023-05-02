@@ -1,0 +1,15 @@
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\bin\Debug\net7.0\Dalmatiese.Application.deps.json
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\bin\Debug\net7.0\Dalmatiese.Application.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\bin\Debug\net7.0\Dalmatiese.Application.pdb
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.csproj.AssemblyReference.cache
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.AssemblyInfoInputs.cache
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.AssemblyInfo.cs
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\refint\Dalmatiese.Application.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.pdb
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\ref\Dalmatiese.Application.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\bin\Debug\net7.0\Dalmatiese.Domain.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\bin\Debug\net7.0\Dalmatiese.Domain.pdb
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Application\obj\Debug\net7.0\Dalmatiese.Application.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRO1SDIsqZq8EmdrpsoDgV+kcweEj7aQDMm+ZpQmgMyaM1zX6FQOvzXt6c3EaVQFAOJ/8a+UT3g9uoBamnKftA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tino\\dev\\Dalmatiese\\Dalmatiese.Application\\Dalmatiese.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tino\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

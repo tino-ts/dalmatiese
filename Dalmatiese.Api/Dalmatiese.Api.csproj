@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>bb11374c-fb89-44f9-bb71-9698405fd63e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dalmatiese.Contracts\Dalmatiese.Contracts.csproj" />
+    <ProjectReference Include="..\Dalmatiese.Application\Dalmatiese.Application.csproj" />
+    <ProjectReference Include="..\Dalmatiese.Infrastructure\Dalmatiese.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

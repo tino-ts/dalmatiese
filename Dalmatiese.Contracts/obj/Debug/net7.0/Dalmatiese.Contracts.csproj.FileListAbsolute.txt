@@ -1,0 +1,12 @@
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\bin\Debug\net7.0\Dalmatiese.Contracts.deps.json
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\bin\Debug\net7.0\Dalmatiese.Contracts.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\bin\Debug\net7.0\Dalmatiese.Contracts.pdb
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.csproj.AssemblyReference.cache
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.AssemblyInfoInputs.cache
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.AssemblyInfo.cs
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\refint\Dalmatiese.Contracts.dll
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\Dalmatiese.Contracts.pdb
+C:\Users\Tino\dev\Dalmatiese\Dalmatiese.Contracts\obj\Debug\net7.0\ref\Dalmatiese.Contracts.dll
